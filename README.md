@@ -3,6 +3,7 @@
 This repository contains the codes for my Msc project at Imperial College London titled SUPERVISED MACHINE LEARNING APPROACH TO LOG-BASED LITHOLOGY LABELLING OF NORTH SEA WELLS!
 ## Data
 The Force 2020 dataset was used
+![alt text](lithology_prediction_data.png)
 
 
 ## Aim
