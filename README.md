@@ -46,7 +46,9 @@ Data cleaning involves finding and correcting errors in data, such as:
 One of the initial steps in data preparation is dealing with missing values. Logs with less than 35% missing values were selected for feature engineering. Various techniques can be employed to handle missing data, such as:
 
 `Imputation`: Filling missing values with mean, median, or mode values.
+
 `Interpolation`: Using neighbouring data points to estimate missing values.
+
 `Deletion`: Removing records with excessive missing values should be done cautiously to avoid losing valuable information.
 
 For this study, a combination of imputation and interpolation was used to manage missing values effectively.
