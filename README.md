@@ -71,7 +71,7 @@ Feature engineering is deriving new features from the datasets that would enhanc
 #### Volume of Shale Computation
 Vclay/shale gives an estimation of the amount of clay/shale in sediments. For example, a clean sandstone would have a very low clay content (VCL), and pure shales are thought to contain 60-70% clay. The volume of shale (Vsh) is a critical feature in lithology prediction. It is computed from the Gamma Ray (GR) log using the formula:
 
-$  V_{sh} = \frac{GR_{log} - GR_{min}}{GR_{max} - GR_{min}}$
+$V_{sh} = \frac{GR_{log} - GR_{min}}{GR_{max} - GR_{min}}$
 
 where 
 
